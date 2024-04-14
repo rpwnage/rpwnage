@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2024 - To: 11 April 2024
+From: 05 April 2024 - To: 12 April 2024
 
-Total Time: 26 hrs 44 mins
+Total Time: 28 hrs 2 mins
 
-Twig          12 hrs 25 mins  >>>>>>>>>>>--------------   43.18 %
-JavaScript    3 hrs 12 mins   >>>----------------------   11.13 %
-Python        2 hrs 46 mins   >>-----------------------   09.64 %
-JSON          2 hrs 13 mins   >>-----------------------   07.72 %
+Twig          15 hrs 55 mins  >>>>>>>>>>>>>------------   52.96 %
+JavaScript    3 hrs 12 mins   >>>----------------------   10.65 %
+XML           2 hrs 46 mins   >>-----------------------   09.22 %
+JSON          2 hrs 9 mins    >>-----------------------   07.17 %
 ```
 
 <!--END_SECTION:waka-->
