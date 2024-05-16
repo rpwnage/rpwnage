@@ -1,14 +1,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 May 2024 - To: 13 May 2024
+From: 07 May 2024 - To: 14 May 2024
 
-Total Time: 7 hrs 5 mins
+Total Time: 12 hrs 7 mins
 
-JavaScript    4 hrs           >>>>>>>>>>>>>>-----------   56.50 %
-C++           1 hr 42 mins    >>>>>>-------------------   23.96 %
-CSS           42 mins         >>-----------------------   09.94 %
-INI           32 mins         >>-----------------------   07.64 %
+JavaScript    8 hrs 21 mins   >>>>>>>>>>>>>>>>>--------   68.92 %
+C++           1 hr 42 mins    >>>>---------------------   14.02 %
+CSS           1 hr 6 mins     >>-----------------------   09.14 %
+INI           32 mins         >------------------------   04.47 %
 ```
 
 <!--END_SECTION:waka-->
